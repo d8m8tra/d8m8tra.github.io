@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+main h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+section {
+    padding-top: 400px;
+}
+
+section p {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+
+}
